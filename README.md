@@ -1,7 +1,8 @@
 # 🎹 Virtual Piano
 
 A responsive and interactive **Virtual Piano** built using **HTML, CSS, and JavaScript**.  
-Play note directly from your web browser using your **mouse** or **keyboard** keys.
+Play note directly from your web browser using your **mouse** or **keyboard** keys.Hosted live at-
+https://soft-alfajores-ba28e8.netlify.app/
 
 ---
 
