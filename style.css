@@ -1,0 +1,56 @@
+.heading {
+    text-align: center;
+    font-size: xx-large;
+}
+
+.line {
+    text-align: center;
+    font-size: medium;
+}
+
+.box {
+    background-color: black;
+    margin: 2.6042vw;
+    display: flex;
+    padding: 6.8359vw 0.7812vw 0.4557vw 0.7812vw;
+}
+
+.white {
+    background-color: white;
+    list-style: none;
+    border: 0.1302vw solid black;
+    border-bottom-left-radius: 0.8464vw;
+    border-bottom-right-radius: 0.8464vw;
+    width: 4.2969vw;
+    height: 19.5312vw;
+}
+
+.black {
+    background-color: black;
+    list-style: none;
+    border-bottom-left-radius: 0.8464vw;
+    border-bottom-right-radius: 0.8464vw;
+    width: 2.2786vw;
+    height: 11.7188vw;
+}
+
+b{
+    font-size: large;
+}
+#inst{
+    color: blueviolet;
+    
+}
+#instructions{
+    margin-top: 2vw;
+    margin-left: 5vw;
+}
+#last{
+    font-size: large;
+    margin: 3vw;
+}
+img{
+    margin-left: 7vw;
+    width: 80vw;
+    height: 45vw;
+}
